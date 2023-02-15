@@ -1,0 +1,9 @@
+﻿chatGPT==0.3.6
+commonmark==0.9.1
+greenlet==2.0.1
+playwright==1.29.0
+pyee==9.0.4
+Pygments==2.13.0
+pyreadline3==3.4.1
+rich==12.6.0
+typing_extensions==4.4.0
